@@ -9419,7 +9419,7 @@ PrefabInstance:
     - target: {fileID: 6534766671168080600, guid: ac4b4a2b96590324e80deddff5f40fba,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -31.24
+      value: -32.58
       objectReference: {fileID: 0}
     - target: {fileID: 6534766671168080600, guid: ac4b4a2b96590324e80deddff5f40fba,
         type: 3}
@@ -9429,7 +9429,7 @@ PrefabInstance:
     - target: {fileID: 6534766671168080600, guid: ac4b4a2b96590324e80deddff5f40fba,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -17.61
+      value: -18.57
       objectReference: {fileID: 0}
     - target: {fileID: 6534766671168080600, guid: ac4b4a2b96590324e80deddff5f40fba,
         type: 3}
@@ -9588,6 +9588,16 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: CanvasGameplay
+      objectReference: {fileID: 0}
+    - target: {fileID: 6013103040186363140, guid: 8b1175995bed761449675f5b8aedaea1,
+        type: 3}
+      propertyPath: m_text
+      value: 'Design by: [Qi Liu]'
+      objectReference: {fileID: 0}
+    - target: {fileID: 8723723340184979209, guid: 8b1175995bed761449675f5b8aedaea1,
+        type: 3}
+      propertyPath: m_text
+      value: '[Level 01]'
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
