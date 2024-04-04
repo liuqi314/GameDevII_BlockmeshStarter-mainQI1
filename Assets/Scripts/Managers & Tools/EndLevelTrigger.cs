@@ -22,10 +22,8 @@ public class EndLevelTrigger : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            // Get the current level index from the LevelManager
-            int currentLevelIndex = _levelManager.currentSceneIndex;
-            // Load the next level based on the current level index
-            _levelManager.LoadLevel(currentLevelIndex + 1);
+            
+            _levelManager.LoadLevel(+1);
 
 
         }     
